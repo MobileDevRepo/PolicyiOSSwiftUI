@@ -9,9 +9,7 @@
 ## 🛠️ Tech Stack & Architecture
        🧩 MVVM (Model-View-ViewModel) architecture for clean separation of concerns
        ⚙️ SwiftUI-first UI development with full declarative layout and state binding
-       📦 Local JSON data loading simulating API calls
-       🎨 Custom UI styling via reusable Extensions and Theme.swift
-       🔍 Searchable list with expandable rows using List, DisclosureGroup, and Searchable modifier
+       🎨 Custom UI styling
        📱 Portrait-only iOS app targeting iOS 15+
        🧾 Policies loaded from local JSON
        🌄 Light Mode Preview
@@ -19,14 +17,10 @@
  
 ## 🚀 Features
 
-        🏠 Dashboard showing:
-          - Total policy count
-          - Claimed policy count
+        🏠 Dashboard showing (UI Placeholder)
         📋 My Policies Screen:
           - Expandable policy cards
           - Status indicators: Active / Lapsed
-          - Real-time search filter
-          - Lazy loading (pagination support)
         📂 Claims Screen (UI Placeholder)
         👤 Profile Screen with:
           - Add Personal Info view 
